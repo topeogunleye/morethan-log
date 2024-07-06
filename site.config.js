@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `tope-log`,
-      href: "https://github.com/topeogunleye/temitope-blog",
+      href: "https://github.com/topeogunleye/morethan-log",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://topeleye.vercel.app",
+  link: "https://blog.topeleye.com",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
