@@ -4,7 +4,7 @@ const CONFIG = {
     name: "temitope",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
-    bio: "I develop everything using next.js.",
+    bio: "I develop everything using next.js and ruby on rails.",
     email: "topeleye.org@gmail.com",
     linkedin: "ogunleye",
     github: "topeogunleye",
